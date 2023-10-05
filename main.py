@@ -5,6 +5,7 @@ import os
 from ModuleProcessor import RealTimeFileOpration
 from ModuleProcessor import sysInfo
 
+//Just to know your OS
 oss=sysInfo.getSystemOS()
 
 def showtutorial():
